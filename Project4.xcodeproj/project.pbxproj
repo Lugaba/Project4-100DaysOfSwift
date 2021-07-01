@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF66704B268DF2A900CF1346 /* ListaTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF66704A268DF2A900CF1346 /* ListaTableViewController.swift */; };
 		DFE1F70F268B3F100059409C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE1F70E268B3F100059409C /* AppDelegate.swift */; };
 		DFE1F711268B3F100059409C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE1F710268B3F100059409C /* SceneDelegate.swift */; };
 		DFE1F713268B3F100059409C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFE1F712268B3F100059409C /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF66704A268DF2A900CF1346 /* ListaTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListaTableViewController.swift; sourceTree = "<group>"; };
 		DFE1F70B268B3F100059409C /* Project4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFE1F70E268B3F100059409C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DFE1F710268B3F100059409C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				DFE1F717268B3F100059409C /* Assets.xcassets */,
 				DFE1F719268B3F100059409C /* LaunchScreen.storyboard */,
 				DFE1F71C268B3F100059409C /* Info.plist */,
+				DF66704A268DF2A900CF1346 /* ListaTableViewController.swift */,
 			);
 			path = Project4;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DFE1F713268B3F100059409C /* ViewController.swift in Sources */,
+				DF66704B268DF2A900CF1346 /* ListaTableViewController.swift in Sources */,
 				DFE1F70F268B3F100059409C /* AppDelegate.swift in Sources */,
 				DFE1F711268B3F100059409C /* SceneDelegate.swift in Sources */,
 			);
